@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+  background-color: #87ceeb;
+}
+
+h1, p {
+  position: absolute;
+  z-index: 1;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
